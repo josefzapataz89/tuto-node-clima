@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/josefzapataz89/tuto-node-clima#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "yargs": "^14.2.0"
   }
 }
